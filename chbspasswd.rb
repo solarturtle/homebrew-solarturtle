@@ -1,9 +1,9 @@
 require "formula"
 
 class Chbspasswd < Formula
-  homepage "http://chleggett.github.io/chbspasswd"
-  url "https://github.com/chleggett/chbspasswd/releases/download/v0.1.1/chbspasswd-0.1.1.tar.gz"
-  sha1 "d911c7ce97b2724fa30f6b092ba7bedec2461aa7"
+  homepage "http://solarturtle.net/chbspasswd"
+  url "https://github.com/chleggett/chbspasswd/releases/download/v0.1.2/chbspasswd-0.1.2.tar.gz"
+  sha1 "d56b4bd7ab904b6d7430554e29798e174266493e"
 
   def install
 
