@@ -3,7 +3,7 @@ require "formula"
 class Chbspasswd < Formula
   homepage "http://solarturtle.net/chbspasswd"
   url "https://github.com/chleggett/chbspasswd/releases/download/v0.1.2/chbspasswd-0.1.2.tar.gz"
-  sha1 "d56b4bd7ab904b6d7430554e29798e174266493e"
+  sha256 "2997af9ab5a2594295a6c08f7ab0f01eda7839b7be7b8943dadd173013da8fc1"
 
   def install
 
